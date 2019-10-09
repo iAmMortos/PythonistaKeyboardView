@@ -1,0 +1,53 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 193}, {302, 138}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "flex" : "WT",
+          "frame" : "{{100, 100}, {100, 100}}",
+          "background_color" : "RGBA(0.982009,0.586207,1.000000,1.000000)",
+          "class" : "ImageView",
+          "name" : "kb",
+          "uuid" : "937B4568-BFB0-4C94-A7ED-71003A936FDB"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {302, 193}}",
+        "class" : "TextView",
+        "attributes" : {
+          "flex" : "WH",
+          "name" : "tv",
+          "editable" : false,
+          "frame" : "{{50, 50}, {200, 200}}",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "uuid" : "8AD2F679-7D8C-4BE2-A822-51D753BC60CD",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {302, 331}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
