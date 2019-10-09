@@ -5,27 +5,11 @@
         "nodes" : [
 
         ],
-        "frame" : "{{0, 193}, {302, 138}}",
-        "class" : "ImageView",
-        "attributes" : {
-          "flex" : "WT",
-          "frame" : "{{100, 100}, {100, 100}}",
-          "background_color" : "RGBA(0.982009,0.586207,1.000000,1.000000)",
-          "class" : "ImageView",
-          "name" : "kb",
-          "uuid" : "937B4568-BFB0-4C94-A7ED-71003A936FDB"
-        },
-        "selected" : false
-      },
-      {
-        "nodes" : [
-
-        ],
         "frame" : "{{0, 0}, {302, 193}}",
         "class" : "TextView",
         "attributes" : {
           "flex" : "WH",
-          "name" : "tv",
+          "font_size" : 17,
           "editable" : false,
           "frame" : "{{50, 50}, {200, 200}}",
           "spellchecking_type" : "default",
@@ -33,10 +17,30 @@
           "uuid" : "8AD2F679-7D8C-4BE2-A822-51D753BC60CD",
           "alignment" : "left",
           "autocorrection_type" : "default",
-          "font_size" : 17,
+          "name" : "tv",
           "font_name" : "<System>"
         },
         "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 193}, {302, 138}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "kb",
+          "flex" : "WT",
+          "frame" : "{{76, 150}, {150, 32}}",
+          "uuid" : "C3135E1C-E9FE-4A44-AB85-C4E400D88D4E",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Keyboard",
+          "background_color" : "RGBA(0.982009,0.586207,1.000000,1.000000)",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : true
       }
     ],
     "frame" : "{{0, 0}, {302, 331}}",
